@@ -19,4 +19,4 @@ Tables:
 
 **Discharge Procedure:** Processes patient discharge, updating the discharge table and releasing the room.
 
-This project ensures smooth hospital operations by automating patient admission, discharge, and room management.
+This project ensures smooth hospital operations by automating patient admission, discharge, and room management. 
