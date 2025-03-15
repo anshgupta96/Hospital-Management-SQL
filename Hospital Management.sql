@@ -135,3 +135,4 @@ delimiter ;
 
 
 call discharge_patient (108,1,5,'2024-09-04'); -- for discharge patients.
+
